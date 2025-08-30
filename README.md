@@ -1,12 +1,14 @@
 ## Hi👋, I'm Srinath Godisela
 
-Full-stack developer focused on the **MERN** stack with solid exposure to **Java, Spring Boot & Spring MVC**.  
-I enjoy turning product ideas into polished, accessible UIs and scalable APIs. and currently building real-world features, refining DX, and shipping fast.
+Full-stack developer with expertise in the MERN stack and strong exposure to Java, Spring Boot, and Spring MVC. Continuously learning and experimenting with new technologies, currently building real-world projects, and contributing to open source. Focused on delivering polished UIs and scalable APIs that solve practical problems.
 
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=500&width=435&lines=Full+Stack+Developer+%7C+MERN+Stack+;Exploring+Generative+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=500&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;Exploring+Gen+AI+%26+Open+Source;Continuously+Learning+%26+Building+Projects" alt="Typing SVG" />
+  </a>
 </h3>
+
 
 ---
 
