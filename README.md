@@ -5,7 +5,7 @@ Full-stack developer with expertise in the MERN stack and strong exposure to Jav
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=500&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;Exploring+Gen+AI+%26+Open+Source;Continuously+Learning+%26+Building+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=100&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;Exploring+Gen+AI+%26+Open+Source;Continuously+Learning+%26+Building+Projects" alt="Typing SVG" />
   </a>
 </h3>
 
