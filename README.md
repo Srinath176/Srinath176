@@ -14,6 +14,7 @@ Full-stack developer with expertise in the MERN stack and strong exposure to Jav
 
 ### 🚀 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,7 +27,7 @@ Full-stack developer with expertise in the MERN stack and strong exposure to Jav
 ---
 
 ### 🌱 Currently Exploring
-- TypeScript, Next.js, Python  
+- Next.js, Python  
 - Generative AI integrations (flashcards, summarization, voice-to-text)
 
 <br>
